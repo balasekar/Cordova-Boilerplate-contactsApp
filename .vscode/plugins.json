@@ -1,0 +1,1 @@
+{"plugins":["cordova-plugin-whitelist","cordova-plugin-device","cordova-plugin-console","cordova-plugin-dialogs","cordova-plugin-statusbar","cordova-plugin-geolocation","de.appplant.cordova.plugin.local-notification","cordova-plugin-app-event","cordova-plugin-contacts","cordova-plugin-camera"]}
